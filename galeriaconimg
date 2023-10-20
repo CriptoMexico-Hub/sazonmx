@@ -193,6 +193,7 @@ const imageInfo = [
   {
     url: "https://cheforopeza.com.mx/wp-content/uploads/2017/11/pollo-mole.jpg",
     description: "Mole con Pollo",
+    link: "sazonmx.near/widget/moleconpollo",
   },
   {
     url: "https://i.pinimg.com/originals/35/ac/cd/35accd4a4a48add5941923f36cca6168.jpg",
@@ -213,6 +214,7 @@ const imageInfo = [
     url: "https://aguabela.com.mx/images/blog/pescado-veracruzana-receta-temporada-veracruz-slider.webp",
     description: "Pescado a la Veracruzana",
   },
+
   // Añade más objetos según sea necesario
 ];
 
